@@ -44,6 +44,7 @@ Inspired by https://github.com/sindresorhus/awesome
 - [as-variant](https://github.com/MaxGraey/as-variant) - Variant type providing dynamic values.
 - [as-string-sink](https://github.com/MaxGraey/as-string-sink) - Efficient string builder.
 - [as-random](https://github.com/MaxGraey/as-random) - Random number generators.
+- [try-as](https://github.com/JairusSW/try-as) - Try/Catch exception support for AssemblyScript.
 
 ### Security
 
@@ -69,7 +70,7 @@ Inspired by https://github.com/sindresorhus/awesome
 ### Serialization
 
 - [rlp](https://github.com/SteerProtocol/rlp) - RLP implementation.
-- [as-json](https://github.com/JairusSW/as-json) - JSON implementation.
+- [json-as](https://github.com/JairusSW/json-as) - JSON implementation.
 - [karmem](https://github.com/inkeliz/karmem) - Fast binary serialization format.
 - [fass](https://github.com/JairusSW/fass) - Extremely fast schema-driven serializer.
 - [as-proto](https://github.com/piotr-oles/as-proto) - Protobuf implementation.
@@ -88,7 +89,7 @@ Inspired by https://github.com/sindresorhus/awesome
 ### Testing
 
 - [as-pect](https://github.com/jtenner/as-pect) - Jest-like testing framework. (Unmaintained)
-- [as-test](https://github.com/JairusSW/as-test) - WIP testing framework.
+- [as-test](https://github.com/JairusSW/as-test) - Runtime-agnostic testing framework.
 
 ### Math & Numbers
 
@@ -108,7 +109,7 @@ Inspired by https://github.com/sindresorhus/awesome
 
 ### I/O
 
-- (No entries yet)
+- [wipc](https://github.com/JairusSW/wipc) - Frame-based socket and rpc over stdio. Supports any runtime.
 
 ### Memory
 
